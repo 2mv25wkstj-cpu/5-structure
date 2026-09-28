@@ -1,0 +1,15 @@
+html {
+    background-color: bisque;
+}
+ body{
+margin:0; 
+}
+.site-header {
+    background-color: rgb(242, 138, 216);
+    padding: 30px; 
+    color:beige; 
+}
+
+.page-name {
+    margin: 0; 
+}
