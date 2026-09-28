@@ -1,5 +1,5 @@
 html {
-    background-color: bisque;
+    background-color:black;
 }
  body{
 margin:0; 
@@ -8,8 +8,22 @@ margin:0;
     background-color: rgb(242, 138, 216);
     padding: 30px; 
     color:beige; 
+    margin-bottom: 20px;
 }
 
 .page-name {
     margin: 0; 
+}
+.nav-link {
+    color:pink
+}
+.main-content {
+    color:rgb(32, 177, 255);
+    padding: 30px;
+    background-color: aqua;
+}
+.site-footer{ 
+margin-top: 20px;
+background-color:pink;
+padding: 30px; 
 }
